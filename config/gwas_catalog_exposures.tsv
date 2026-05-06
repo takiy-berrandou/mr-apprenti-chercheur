@@ -1,0 +1,4 @@
+exposure_id	exposure_label	accession	url_override	snp_col	chrom_col	pos_col	effect_col	effect_type	se_col	effect_allele_col	other_allele_col	eaf_col	pval_col	samplesize	p_threshold	clump_r2	clump_kb
+bmi	BMI	GCST90018732		rsid	chromosome	base_pair_location	beta	beta	standard_error	effect_allele	other_allele	effect_allele_frequency	p_value	NA	5e-8	0.001	10000
+sbp	Systolic blood pressure	GCST90310294		rsid	chromosome	base_pair_location	beta	beta	standard_error	effect_allele	other_allele	effect_allele_frequency	p_value	NA	5e-8	0.001	10000
+ldl	LDL cholesterol	GCST90239658		rsid	chromosome	base_pair_location	beta	beta	standard_error	effect_allele	other_allele	effect_allele_frequency	p_value	NA	5e-8	0.001	10000

@@ -1,0 +1,10 @@
+data/raw/
+data/exposures_full/
+data/exposure_gws/
+data/exposure_clumped/
+data/instruments/
+logs/
+results/
+*.RData
+*.rds
+.Rhistory

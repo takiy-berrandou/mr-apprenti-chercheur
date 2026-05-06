@@ -1,0 +1,2 @@
+outcome_id	outcome_label	accession	url	outcome_file	snp_col	effect_col	effect_type	se_col	effect_allele_col	other_allele_col	eaf_col	pval_col	samplesize
+scad	SCAD	GCST90245878	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90245001-GCST90246000/GCST90245878/harmonised/GCST90245878.h.tsv.gz	data/raw/scad_GCST90245878.h.tsv.gz	rsid	beta	beta	standard_error	effect_allele	other_allele	effect_allele_frequency	p_value	11209
