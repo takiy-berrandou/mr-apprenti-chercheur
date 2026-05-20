@@ -1,0 +1,11 @@
+SNP	effect_allele.exposure	other_allele.exposure	effect_allele.outcome	other_allele.outcome	beta.exposure	beta.outcome	eaf.exposure	eaf.outcome	remove	palindromic	ambiguous	id.outcome	se.outcome	pval.outcome	samplesize.outcome	outcome	mr_keep.outcome	pval_origin.outcome	se.exposure	pval.exposure	samplesize.exposure	exposure	mr_keep.exposure	pval_origin.exposure	id.exposure	action	SNP_index	mr_keep
+rs10006452	C	T	C	T	-0.00728098	-0.0217	0.48021	0.4997	FALSE	FALSE	FALSE	scad	0.0386	0.574	11209	SCAD	TRUE	reported	0.000844823	5.3e-18		Estradiol levels	TRUE	reported	estradiol	2	1	TRUE
+rs10491431	A	C	A	C	0.00774443	0.0362	0.141	0.1412	FALSE	FALSE	FALSE	scad	0.0647	0.5762	11209	SCAD	TRUE	reported	0.00121717	1.8e-10		Estradiol levels	TRUE	reported	estradiol	2	1	TRUE
+rs112881196	G	C	G	C	0.0249518	0.0159	0.039212	0.0343	FALSE	TRUE	FALSE	scad	0.1127	0.8879	11209	SCAD	TRUE	reported	0.00219839	5.6e-30		Estradiol levels	TRUE	reported	estradiol	2	1	TRUE
+rs113047993	T	C	T	C	-0.00966159	0.1121	0.068984	0.074	FALSE	FALSE	FALSE	scad	0.0738	0.1285	11209	SCAD	TRUE	reported	0.00168082	8.7e-09		Estradiol levels	TRUE	reported	estradiol	2	1	TRUE
+rs1260326	C	T	C	T	0.00556675	0.0198	0.605566	0.5927	FALSE	FALSE	FALSE	scad	0.0395	0.6152	11209	SCAD	TRUE	reported	0.000864834	9.6e-11		Estradiol levels	TRUE	reported	estradiol	2	1	TRUE
+rs2547234	C	T	C	T	-0.00760122	0.0249	0.834781	0.8327	FALSE	FALSE	FALSE	scad	0.0576	0.6651	11209	SCAD	TRUE	reported	0.00113891	2.7e-11		Estradiol levels	TRUE	reported	estradiol	2	1	TRUE
+rs3751591	G	A	G	A	0.0077766	-0.091	0.166931	0.1649	FALSE	FALSE	FALSE	scad	0.0678	0.1794	11209	SCAD	TRUE	reported	0.00113687	6.6e-12		Estradiol levels	TRUE	reported	estradiol	2	1	TRUE
+rs5933688	G	A	G	A	0.00858299	0.011	0.275717	0.2719	FALSE	FALSE	FALSE	scad	0.0509	0.8282	11209	SCAD	TRUE	reported	0.000669785	2.6e-37		Estradiol levels	TRUE	reported	estradiol	2	1	TRUE
+rs7173595	T	C	T	C	0.0158526	-0.0055	0.64871	0.6452	FALSE	FALSE	FALSE	scad	0.0404	0.8919	11209	SCAD	TRUE	reported	0.000886215	3.6e-72		Estradiol levels	TRUE	reported	estradiol	2	1	TRUE
+rs727428	C	T	C	T	0.00566325	0.0947	0.557221	0.5696	FALSE	FALSE	FALSE	scad	0.045	0.03549	11209	SCAD	TRUE	reported	0.000852078	1.8e-11		Estradiol levels	TRUE	reported	estradiol	2	1	TRUE
